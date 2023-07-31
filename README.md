@@ -1,5 +1,5 @@
-# blog
-this it the study blog on Github by LinHeMa.
+# Blog
+this is the study blog on Github by LinHeMa.
 Writing something both computer and human can read.
 
 ## Content
